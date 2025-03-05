@@ -1,2 +1,22 @@
-# my-interests
-Thing what I want to know
+# 技術的に興味があるものをリスト化しておく
+- Visual Studio Code
+- Typescript
+- React
+- Next.js
+- Node.js
+- Hono
+- pnpm
+- nvm
+- Jest
+- Playwright
+- ESLing
+- Prettier
+- Docker
+- ECS
+- AppRunner
+- CDK
+- AWS Service Catalog
+- Turborepo
+- Storybook
+- OpenAPI
+- Swagger Viewer
